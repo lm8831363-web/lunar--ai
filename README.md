@@ -1,2 +1,2 @@
-# lunar--ai
-🐰Lunar AI - Your Cosmic Study Buddy 
+# lunar-ai
+🐰Lunar AI - Your Cosmic Study Buddy
